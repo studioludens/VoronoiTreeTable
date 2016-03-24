@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="Venation/release/Venation.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Venation/release.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Venation/src&lt;{Venation.java[Venation" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/Venation/lib"/>
+        <file path="/Venation/.DS_Store"/>
+        <javaElement handleIdentifier="=Venation/libraries"/>
+        <javaElement handleIdentifier="=Venation/src"/>
+        <folder path="/Venation/data"/>
+        <file path="/Venation/.classpath"/>
+        <file path="/Venation/.project"/>
+    </selectedElements>
+</jardesc>
